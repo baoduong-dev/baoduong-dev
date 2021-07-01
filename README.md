@@ -1,9 +1,9 @@
-## Hi there 👋 I'm [BaoDuong][website] but you can call me Harry 😀
+## Hi there 👋 I'm [BaoDuong][website] 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=baoduong-dev.baoduong-dev) [![Github](https://img.shields.io/github/followers/baoduong-dev?label=Followers&logo=Github)](https://github.com/baoduong-dev)
 
 
 
-
+<!--
 ## 🎓 I'm an MSc Data Science student at the University of Edinburgh
 
 - 🔭 I’m currently developing a mobile app with Glideapps.
@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love playing tennis and computer games.
+-->
 
 ## :email: Find me on:
 
