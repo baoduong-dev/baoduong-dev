@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm [BaoDuong][website] 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=baoduong-dev.baoduong-dev)
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fbaoduong.work)](https://baoduong.work)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fbaoduong.vercel.app)](https://baoduong.vercel.app)
 [![Github](https://img.shields.io/github/followers/baoduong-dev?label=Followers&color=42c37b&logo=Github&style=for-the-badge)](https://github.com/baoduong-dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vikingw_crypto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbaoduong-dev&screen_name=baoduong-dev)
 
