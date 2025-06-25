@@ -1,105 +1,88 @@
-## Hi there 👋 I'm [BaoDuong][website] 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=baoduong-dev.baoduong-dev)
+# Hello, I'm Bao Duong 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fbaoduong.vercel.app)](https://baoduong.vercel.app)
-[![Github](https://img.shields.io/github/followers/baoduong-dev?label=Followers&color=42c37b&logo=Github&style=for-the-badge)](https://github.com/baoduong-dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/vikingw_crypto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbaoduong-dev&screen_name=baoduong-dev)
+<div align="center">
+  
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fbaoduong.vercel.app&color=0891b2&labelColor=1c1917)](https://baoduong.vercel.app)
+[![GitHub followers](https://img.shields.io/github/followers/baoduong-dev?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/baoduong-dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/baoduong_dev?color=1DA1F2&logo=twitter&style=for-the-badge&labelColor=1c1917)](https://twitter.com/baoduong_dev)
 
-<!--
-## 🎓 I'm an MSc Data Science student at the University of Edinburgh
+</div>
 
-- 🔭 I’m currently developing a mobile app with Glideapps.
-- 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything
-- ⚡ Fun fact: I love playing tennis and computer games.
--->
+## 👨‍💻 About Me
 
-## :email: Find me on:
+I'm a passionate **Full-Stack Developer** and **Data Science enthusiast** with a strong foundation in modern web technologies and data analysis. Currently pursuing my MSc in Data Science at the University of Edinburgh, I enjoy building scalable applications and exploring the intersection of technology and data.
 
-<!--
-[<img align="left" alt="baoduong-dev" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="baoduong-dev | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="baoduong-dev | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+- 🔭 Currently developing innovative mobile applications with modern frameworks
+- 🌱 Expanding my expertise in **Angular**, **Data Science**, and **Machine Learning**
+- 👯 Open to collaborating on exciting projects and open-source contributions
+- 🎾 When not coding, you'll find me playing tennis or exploring new gaming worlds
+- 📍 Based in Vietnam, working with global teams
 
-[<img align="left" alt="baoduong.work" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DuongThuanBao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="baoduong-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="baoduong-dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="baoduong-dev | Dev.to" width="22px" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
+## 🛠️ Tech Stack
 
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<br />
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧰 Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdev]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdev]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdev]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webdev]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdev]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdev]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdev]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdev]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdev]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdev]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdev]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdev]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdev]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdev]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdev]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdev]
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][webdev]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdev]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][webdev]
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
+## 📊 GitHub Analytics
 
-<br />
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baoduong-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoduong-dev&layout=compact&langs_count=8&theme=tokyonight&hide=php"/>
 
-## :blue_book: Blog posts:
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=baoduong-dev&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Vietnamese Alphabet rewrite to FriendlyUrl for .Net Core and .Net Framework](https://dev.to/baoduongdev/vietnamese-alphabet-rewrite-to-friendlyurl-for-net-core-and-net-framework-3fio)
 <!-- BLOG-POST-LIST:END -->
 
+## 🤝 Connect With Me
 
+<div align="center">
 
-## :trophy: My Github Stats:
+[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://baoduong.work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baoduong)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/baoduong_dev)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/baoduongdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duongthuanbao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duongthuanbao@gmail.com)
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=baoduong-dev&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=baoduong-dev&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=baoduong-dev&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=baoduong-dev&hide=php&theme=tokyonight" />
-</a>
 </div>
 
+---
 
+<div align="center">
+  
+**Thanks for visiting! 😊**
 
-[website]: https://baoduong-dev.github.io/
-[twitter]: https://twitter.com/duongthuanbao
-[linkedin]: https://linkedin.com/in/baoduong
-[instagram]: https://www.instagram.com/duongthuanbao
-[mail]: mailto:duongthuanbao@gmail.com
-[webdev]: https://baoduong.work
-[devto]: https://dev.to/baoduongdev
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=baoduong-dev.baoduong-dev&style=flat-square&color=0088cc)
 
-<!--
-**baoduong-dev/baoduong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
